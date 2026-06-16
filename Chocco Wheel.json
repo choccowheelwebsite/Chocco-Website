@@ -1,11 +1,11 @@
 [
-  {
+{
     "id": "Cheese",
     "name": "Extra Cheese (Burger)",
     "category": "Cheese",
     "price": "15.00",
     "description": "",
-    "images": ["Extra Cheese Burger.jpg"]
+    "images": ["image/Cheese/Extra Cheese Burger.jpg"]
   },
   {
     "id": "Cheese",
@@ -13,7 +13,7 @@
     "category": "Cheese",
     "price": "15.00",
     "description": "",
-    "images": ["Image/Extra Cheese Sandwich.jpg"]
+    "images": ["image/Cheese/Extra Cheese Sandwich.jpg"]
   },
   {
     "id": "BC01",
