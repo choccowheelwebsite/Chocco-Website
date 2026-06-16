@@ -7,10 +7,10 @@ document.addEventListener('DOMContentLoaded', () => {
     const prevBtn = document.getElementById('prevBtn');
     
     const images = [
-        '/Image/Home Background (1).jpg',
-        '/Image/Home Background (2).jpg',
-        '/Image/Home Background (3).jpg',
-        '/Image/Home Background (4).jpg'
+        'Home Background (1).jpg',
+        'Home Background (2).jpg',
+        'Home Background (3).jpg',
+        'Home Background (4).jpg'
     ];
     
     let currentIndex = 0;
