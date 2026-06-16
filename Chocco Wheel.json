@@ -13,7 +13,7 @@
     "category": "Cheese",
     "price": "15.00",
     "description": "",
-    "images": ["image/Cheese/Extra Cheese Sandwich.jpg"]
+    "images": ["Extra Cheese Sandwich.jpg"]
   },
   {
     "id": "BC01",
@@ -21,7 +21,7 @@
     "category": "Cakes",
     "price": "600.00",
     "description": "",
-    "images": ["image/Cakes/Black Forest.jpeg"]
+    "images": ["Cakes/Black Forest.jpeg"]
   },
   {
     "id": "BC02",
@@ -29,7 +29,7 @@
     "category": "Cakes",
     "price": "300.00",
     "description": "",
-    "images": ["image/Cakes/Black Forest.jpeg"]
+    "images": ["Cakes/Black Forest.jpeg"]
   },
   {
     "id": "BC03",
@@ -37,7 +37,7 @@
     "category": "Cakes",
     "price": "600.00",
     "description": "",
-    "images": ["image/Cakes/White Forest.jpeg"]
+    "images": ["Cakes/White Forest.jpeg"]
   },
   {
     "id": "BC04",
@@ -45,7 +45,7 @@
     "category": "Cakes",
     "price": "300.00",
     "description": "",
-    "images": ["image/Cakes/White Forest.jpeg"]
+    "images": ["Cakes/White Forest.jpeg"]
   },
   {
     "id": "BC05",
@@ -53,7 +53,7 @@
     "category": "Cakes",
     "price": "850.00",
     "description": "",
-    "images": ["image/Cakes/Red Velvet.jpeg"]
+    "images": ["Cakes/Red Velvet.jpeg"]
   },
   {
     "id": "BC06",
@@ -61,7 +61,7 @@
     "category": "Cakes",
     "price": "450.00",
     "description": "",
-    "images": ["image/Cakes/Red Velvet.jpeg"]
+    "images": ["Cakes/Red Velvet.jpeg"]
   },
   {
     "id": "BC07",
@@ -69,7 +69,7 @@
     "category": "Cakes",
     "price": "999.00",
     "description": "",
-    "images": ["image/Cakes/Nutty Bubbly.jpeg"]
+    "images": ["Cakes/Nutty Bubbly.jpeg"]
   },
   {
     "id": "BC08",
@@ -77,7 +77,7 @@
     "category": "Cakes",
     "price": "550.00",
     "description": "",
-    "images": ["image/Cakes/Nutty Bubbly.jpeg"]
+    "images": ["Cakes/Nutty Bubbly.jpeg"]
   },
   {
     "id": "BC09",
@@ -85,7 +85,7 @@
     "category": "Cakes",
     "price": "900.00",
     "description": "",
-    "images": ["image/Cakes/Choco Truffle.jpeg"]
+    "images": ["Cakes/Choco Truffle.jpeg"]
   },
   {
     "id": "BC010",
@@ -93,7 +93,7 @@
     "category": "Cakes",
     "price": "500.00",
     "description": "",
-    "images": ["image/Cakes/Choco Truffle.jpeg"]
+    "images": ["Cakes/Choco Truffle.jpeg"]
   },
   {
     "id": "BC11",
@@ -101,7 +101,7 @@
     "category": "Cakes",
     "price": "900.00",
     "description": "",
-    "images": ["image/Cakes/Vancho.jpeg"]
+    "images": ["Cakes/Vancho.jpeg"]
   },
   {
     "id": "BC12",
@@ -109,7 +109,7 @@
     "category": "Cakes",
     "price": "500.00",
     "description": "",
-    "images": ["image/Cakes/Vancho.jpeg"]
+    "images": ["Cakes/Vancho.jpeg"]
   },
   {
     "id": "BC13",
@@ -117,7 +117,7 @@
     "category": "Cakes",
     "price": "900.00",
     "description": "",
-    "images": ["image/Cakes/Choco Berry.jpeg"]
+    "images": ["Cakes/Choco Berry.jpeg"]
   },
   {
     "id": "BC14",
@@ -125,7 +125,7 @@
     "category": "Cakes",
     "price": "500.00",
     "description": "",
-    "images": ["image/Cakes/Choco Berry.jpeg"]
+    "images": ["Cakes/Choco Berry.jpeg"]
   },
   {
     "id": "BC15",
@@ -133,7 +133,7 @@
     "category": "Cakes",
     "price": "900.00",
     "description": "",
-    "images": ["image/Cakes/Choco Red.jpeg"]
+    "images": ["Cakes/Choco Red.jpeg"]
   },
   {
     "id": "BC16",
@@ -141,7 +141,7 @@
     "category": "Cakes",
     "price": "500.00",
     "description": "",
-    "images": ["image/Cakes/Choco Red.jpeg"]
+    "images": ["Cakes/Choco Red.jpeg"]
   },
   {
     "id": "BC17",
@@ -149,7 +149,7 @@
     "category": "Cakes",
     "price": "1050.00",
     "description": "",
-    "images": ["image/Cakes/Choco Nuts.jpeg"]
+    "images": ["Cakes/Choco Nuts.jpeg"]
   },
   {
     "id": "BC18",
@@ -157,7 +157,7 @@
     "category": "Cakes",
     "price": "550.00",
     "description": "",
-    "images": ["image/Cakes/Choco Nuts.jpeg"]
+    "images": ["Cakes/Choco Nuts.jpeg"]
   },
   {
     "id": "BC19",
@@ -165,7 +165,7 @@
     "category": "Cakes",
     "price": "950.00",
     "description": "",
-    "images": ["image/Cakes/Caramel Fudge.jpeg"]
+    "images": ["Cakes/Caramel Fudge.jpeg"]
   },
   {
     "id": "BC20",
@@ -173,49 +173,49 @@
     "category": "Cakes",
     "price": "550.00",
     "description": "",
-    "images": ["image/Cakes/Caramel Fudge.jpeg"]
+    "images": ["Cakes/Caramel Fudge.jpeg"]
   },
   {
     "id": "BSC01",
     "name": "Customized Cake",
     "category": "Customized Cakes",
     "description": "",
-    "images": ["image/Special Cakes/Special Cake_step.jpeg"]
+    "images": ["Special Cakes/Special Cake_step.jpeg"]
   },
   {
     "id": "BSC02",
     "name": "Customized Cakes",
     "category": "Customized Cakes",
     "description": "",
-    "images": ["image/Special Cakes/Special cake_panda.jpeg"]
+    "images": ["Special Cakes/Special cake_panda.jpeg"]
   },
   {
     "id": "BSC03",
     "name": "Customized Cakes",
     "category": "Customized Cakes",
     "description": "",
-    "images": ["image/Special Cakes/Special Cake_Car.jpeg"]
+    "images": ["Special Cakes/Special Cake_Car.jpeg"]
   },
   {
     "id": "BSC04",
     "name": "Customized Cakes",
     "category": "Customized Cakes",
     "description": "",
-    "images": ["image/Special Cakes/Special Cake_blue.jpeg"]
+    "images": ["Special Cakes/Special Cake_blue.jpeg"]
   },
   {
     "id": "BSC05",
     "name": "Customized Cakes",
     "category": "Customized Cakes",
     "description": "",
-    "images": ["image/Special Cakes/Special Cake_avengers.jpeg"]
+    "images": ["Special Cakes/Special Cake_avengers.jpeg"]
   },
   {
     "id": "BSC06",
     "name": "Customized Cakes",
     "category": "Customized Cakes",
     "description": "",
-    "images": ["image/Special Cakes/Special Cake dora.jpeg"]
+    "images": ["Special Cakes/Special Cake dora.jpeg"]
   },
   {
     "id": "BP01",
@@ -223,7 +223,7 @@
     "category": "Pastries",
     "price": "110.00",
     "description": "",
-    "images": ["Image/Pastries/Royal Falooda.jpg"]
+    "images": ["Pastries/Royal Falooda.jpg"]
   },
   {
     "id": "BP02",
@@ -231,7 +231,7 @@
     "category": "Pastries",
     "price": "165.00",
     "description": "",
-    "images": ["Image/Pastries/Triple Chocco Kunafa Bowl.jpeg"]
+    "images": ["Pastries/Triple Chocco Kunafa Bowl.jpeg"]
   },
   {
     "id": "BP03",
@@ -239,7 +239,7 @@
     "category": "Pastries",
     "price": "249.00",
     "description": "",
-    "images": ["Image/Pastries/Pista Kunafa Lotus Bowl.jpg"]
+    "images": ["Pastries/Pista Kunafa Lotus Bowl.jpg"]
   },
   {
     "id": "BP04",
@@ -247,7 +247,7 @@
     "category": "Pastries",
     "price": "65.00",
     "description": "",
-    "images": ["Image/Pastries/Fruit Salad.jpg"]
+    "images": ["Pastries/Fruit Salad.jpg"]
   },
   {
     "id": "BP05",
@@ -255,7 +255,7 @@
     "category": "Pastries",
     "price": "90.00",
     "description": "",
-    "images": ["Image/Pastries/Falooda.jpg"]
+    "images": ["Pastries/Falooda.jpg"]
   },
   {
     "id": "BP06",
@@ -263,7 +263,7 @@
     "category": "Pastries",
     "price": "110.00",
     "description": "",
-    "images": ["Image/Pastries/Cake Falooda.jpg"]
+    "images": ["Pastries/Cake Falooda.jpg"]
   },
   {
     "id": "BP07",
@@ -271,7 +271,7 @@
     "category": "Pastries",
     "price": "195.00",
     "description": "",
-    "images": ["Image/Pastries/Pista Kunafa Bowl.jpeg"]
+    "images": ["Pastries/Pista Kunafa Bowl.jpeg"]
   },
   {
     "id": "BP08",
@@ -279,7 +279,7 @@
     "category": "Pastries",
     "price": "120.00",
     "description": "",
-    "images": ["Image/Pastries/Milk Cake.jpeg"]
+    "images": ["Pastries/Milk Cake.jpeg"]
   },
 
   {
@@ -288,7 +288,7 @@
     "category": "Hot Foods",
     "price": "100.00",
     "description": "",
-    "images": ["Image/Hot Food/Shawarma Kuboos Roll.jpg"]
+    "images": ["Hot Food/Shawarma Kuboos Roll.jpg"]
   },
   {
     "id": "BH02",
@@ -296,7 +296,7 @@
     "category": "Hot Foods",
     "price": "120.00",
     "description": "",
-    "images": ["Image/Hot Food/Shawarma Kuboos Plate.jpg"]
+    "images": ["Hot Food/Shawarma Kuboos Plate.jpg"]
   },
   {
     "id": "BH03",
@@ -304,7 +304,7 @@
     "category": "Hot Foods",
     "price": "120.00",
     "description": "",
-    "images": ["Image/Hot Food/Shawarma Stand.jpg"]
+    "images": ["Hot Food/Shawarma Stand.jpg"]
   },
   {
     "id": "BH04",
@@ -312,7 +312,7 @@
     "category": "Hot Foods",
     "price": "140.00",
     "description": "",
-    "images": ["Image/Hot Food/Turkish Rumali Plate.jpeg"]
+    "images": ["Hot Food/Turkish Rumali Plate.jpeg"]
   },
   {
     "id": "BH05",
@@ -320,7 +320,7 @@
     "category": "Hot Foods",
     "price": "140.00",
     "description": "",
-    "images": ["Image/Hot Food/Shawarma Stand.jpg"]
+    "images": ["Hot Food/Shawarma Stand.jpg"]
   },
   {
     "id": "BH06",
@@ -328,7 +328,7 @@
     "category": "Hot Foods",
     "price": "160.00",
     "description": "",
-    "images": ["Image/Hot Food/Shawarma Stand.jpg"]
+    "images": ["Hot Food/Shawarma Stand.jpg"]
   },
   {
     "id": "BH7",
@@ -336,7 +336,7 @@
     "category": "Hot Foods",
     "price": "130.00",
     "description": "",
-    "images": ["Image/Hot Food/Peri Peri Rumali Roll.jpg"]
+    "images": ["Hot Food/Peri Peri Rumali Roll.jpg"]
   },
   {
     "id": "BH8",
@@ -344,7 +344,7 @@
     "category": "Hot Foods",
     "price": "150.00",
     "description": "",
-    "images": ["Image/Hot Food/Shawarma Stand.jpg"]
+    "images": ["Hot Food/Shawarma Stand.jpg"]
   },
   {
     "id": "BH9",
@@ -352,7 +352,7 @@
     "category": "Hot Foods",
     "price": "145.00",
     "description": "",
-    "images": ["Image/Hot Food/Shawarma Stand.jpg"]
+    "images": ["Hot Food/Shawarma Stand.jpg"]
   },
   {
     "id": "BH10",
@@ -360,7 +360,7 @@
     "category": "Hot Foods",
     "price": "165.00",
     "description": "",
-    "images": ["Image/Hot Food/Shawarma Stand.jpg"]
+    "images": ["Hot Food/Shawarma Stand.jpg"]
   },
   {
     "id": "BH11",
@@ -368,7 +368,7 @@
     "category": "Hot Foods",
     "price": "159.00",
     "description": "",
-    "images": ["Image/Hot Food/Shawarma Loaded Fries.jpg"]
+    "images": ["Hot Food/Shawarma Loaded Fries.jpg"]
   },
   {
     "id": "BH12",
@@ -376,7 +376,7 @@
     "category": "Hot Foods",
     "price": "85.00",
     "description": "",
-    "images": ["Image/Hot Food/Vegetable Sandwich.jpg"]
+    "images": ["Hot Food/Vegetable Sandwich.jpg"]
   },
   {
     "id": "BH13",
@@ -384,7 +384,7 @@
     "category": "Hot Foods",
     "price": "105.00",
     "description": "",
-    "images": ["Image/Hot Food/Chicken Sandwich.jpg"]
+    "images": ["Hot Food/Chicken Sandwich.jpg"]
   },
   {
     "id": "BH14",
@@ -392,7 +392,7 @@
     "category": "Hot Foods",
     "price": "165.00",
     "description": "",
-    "images": ["Image/Hot Food/Chicken Club Sandwich.jpg"]
+    "images": ["Hot Food/Chicken Club Sandwich.jpg"]
   },
   {
     "id": "BH15",
@@ -400,7 +400,7 @@
     "category": "Hot Foods",
     "price": "119.00",
     "description": "",
-    "images": ["Image/Hot Food/Mexican Chicken Wrap.jpg"]
+    "images": ["Hot Food/Mexican Chicken Wrap.jpg"]
   },
   {
     "id": "BH16",
@@ -408,7 +408,7 @@
     "category": "Hot Foods",
     "price": "85.00",
     "description": "",
-    "images": ["Image/Hot Food/Classic Vegetable Burger.jpg"]
+    "images": ["Hot Food/Classic Vegetable Burger.jpg"]
   },
   {
     "id": "BH17",
@@ -416,7 +416,7 @@
     "category": "Hot Foods",
     "price": "45.00",
     "description": "",
-    "images": ["Image/Hot Food/Mini Chicken Burger.jpg"]
+    "images": ["Hot Food/Mini Chicken Burger.jpg"]
   },
   {
     "id": "BH18",
@@ -424,7 +424,7 @@
     "category": "Hot Foods",
     "price": "95.00",
     "description": "",
-    "images": ["Image/Hot Food/Classic Chicken Burger.jpg"]
+    "images": ["Hot Food/Classic Chicken Burger.jpg"]
   },
   {
     "id": "BH19",
@@ -432,7 +432,7 @@
     "category": "Hot Foods",
     "price": "105.00",
     "description": "",
-    "images": ["Image/Hot Food/Zinger Chicken Burger.jpg"]
+    "images": ["Hot Food/Zinger Chicken Burger.jpg"]
   },
   {
     "id": "BH20",
@@ -440,7 +440,7 @@
     "category": "Hot Foods",
     "price": "105.00",
     "description": "",
-    "images": ["Image/Hot Food/Cheesy Burger Platter.jpg"]
+    "images": ["Hot Food/Cheesy Burger Platter.jpg"]
   },
   {
     "id": "BH21",
@@ -448,7 +448,7 @@
     "category": "Hot Foods",
     "price": "75.00",
     "description": "",
-    "images": ["Image/Hot Food/French Fries Medium.jpg"]
+    "images": ["Hot Food/French Fries Medium.jpg"]
   },
   {
     "id": "BH22",
@@ -456,7 +456,7 @@
     "category": "Hot Foods",
     "price": "99.00",
     "description": "",
-    "images": ["Image/Hot Food/Dynamic Chicken Pops.jpg"]
+    "images": ["Hot Food/Dynamic Chicken Pops.jpg"]
   },
   {
     "id": "BH23",
@@ -464,7 +464,7 @@
     "category": "Hot Foods",
     "price": "159.00",
     "description": "",
-    "images": ["Image/Hot Food/Zinger Chicken Cheese Loaded.jpg"]
+    "images": ["Hot Food/Zinger Chicken Cheese Loaded.jpg"]
   },
   {
     "id": "BH24",
@@ -472,7 +472,7 @@
     "category": "Hot Foods",
     "price": "139.00",
     "description": "",
-    "images": ["Image/Hot Food/Chicken Cheese Loaded Fries.jpg"]
+    "images": ["Hot Food/Chicken Cheese Loaded Fries.jpg"]
   },
   {
     "id": "BH25",
@@ -480,7 +480,7 @@
     "category": "Hot Foods",
     "price": "139.00",
     "description": "",
-    "images": ["Image/Hot Food/Fried Cheesy Chicken Momos.jpg"]
+    "images": ["Hot Food/Fried Cheesy Chicken Momos.jpg"]
   },
   {
     "id": "BH26",
@@ -488,7 +488,7 @@
     "category": "Hot Foods",
     "price": "99.00",
     "description": "",
-    "images": ["Image/Hot Food/Fried Wings.jpg"]
+    "images": ["Hot Food/Fried Wings.jpg"]
   },
   {
     "id": "BH27",
@@ -496,7 +496,7 @@
     "category": "Hot Foods",
     "price": "159.00",
     "description": "",
-    "images": ["Image/Hot Food/Dynamic Chicken Salad.jpeg"]
+    "images": ["Hot Food/Dynamic Chicken Salad.jpeg"]
   },
 
   {
@@ -505,7 +505,7 @@
     "category": "Beverages",
     "price": "80",
     "description": "",
-    "images": ["Image/Beverages/Frappuccino.jpg"]
+    "images": ["Beverages/Frappuccino.jpg"]
   },
   {
     "id": "BB2",
@@ -513,7 +513,7 @@
     "category": "Beverages",
     "price": "90.00",
     "description": "",
-    "images": ["Image/Beverages/Coffe Caramel Frappe.jpg"]
+    "images": ["Beverages/Coffe Caramel Frappe.jpg"]
   },
   {
     "id": "BB3",
@@ -521,7 +521,7 @@
     "category": "Beverages",
     "price": "90.00",
     "description": "",
-    "images": ["Image/Beverages/Chocolate Frappe.jpg"]
+    "images": ["Beverages/Chocolate Frappe.jpg"]
   },
   {
     "id": "BB4",
@@ -529,7 +529,7 @@
     "category": "Beverages",
     "price": "40.00",
     "description": "",
-    "images": ["Image/Beverages/Chilli Guava Soda.jpg"]
+    "images": ["Beverages/Chilli Guava Soda.jpg"]
   },
   {
     "id": "BB5",
@@ -537,7 +537,7 @@
     "category": "Beverages",
     "price": "40",
     "description": "",
-    "images": ["Image/Beverages/Green Mango Soda.jpg"]
+    "images": ["Beverages/Green Mango Soda.jpg"]
   },
   {
     "id": "BB6",
@@ -545,7 +545,7 @@
     "category": "Beverages",
     "price": "40.00",
     "description": "",
-    "images": ["Image/Beverages/Grape Soda.jpg"]
+    "images": ["Beverages/Grape Soda.jpg"]
   },
   {
     "id": "BB7",
@@ -553,7 +553,7 @@
     "category": "Beverages",
     "price": "49.00",
     "description": "",
-    "images": ["Image/Beverages/Avil Milk.jpg"]
+    "images": ["Beverages/Avil Milk.jpg"]
   },
   {
     "id": "BB8",
@@ -561,7 +561,7 @@
     "category": "Beverages",
     "price": "80.00",
     "description": "",
-    "images": ["Image/Beverages/Royal Avil Milk.jpg"]
+    "images": ["Beverages/Royal Avil Milk.jpg"]
   },
   {
     "id": "BB9",
@@ -569,7 +569,7 @@
     "category": "Beverages",
     "price": "85",
     "description": "",
-    "images": ["Image/Beverages/Blue Sea Mojito.jpg"]
+    "images": ["Beverages/Blue Sea Mojito.jpg"]
   },
   {
     "id": "BB10",
@@ -577,7 +577,7 @@
     "category": "Beverages",
     "price": "85.00",
     "description": "",
-    "images": ["Image/Beverages/Lemon Iced Tea.jpg"]
+    "images": ["Beverages/Lemon Iced Tea.jpg"]
   },
   {
     "id": "BB11",
@@ -585,7 +585,7 @@
     "category": "Beverages",
     "price": "85.00",
     "description": "",
-    "images": ["Image/Beverages/Passion Fruit Mojito.jpg"]
+    "images": ["Beverages/Passion Fruit Mojito.jpg"]
   },
   {
     "id": "BB12",
@@ -593,7 +593,7 @@
     "category": "Beverages",
     "price": "110.00",
     "description": "",
-    "images": ["Image/Beverages/Honey Mojito.jpg"]
+    "images": ["Beverages/Honey Mojito.jpg"]
   },
   {
     "id": "BB13",
@@ -601,7 +601,7 @@
     "category": "Beverages",
     "price": "70.00",
     "description": "",
-    "images": ["Image/Beverages/Vanilla Shake.jpg"]
+    "images": ["Beverages/Vanilla Shake.jpg"]
   },
   {
     "id": "BB14",
@@ -609,7 +609,7 @@
     "category": "Beverages",
     "price": "70.00",
     "description": "",
-    "images": ["Image/Beverages/Sharjah Shake.jpg"]
+    "images": ["Beverages/Sharjah Shake.jpg"]
   },
   {
     "id": "BB15",
@@ -617,7 +617,7 @@
     "category": "Beverages",
     "price": "80.00",
     "description": "",
-    "images": ["Image/Beverages/Strawberry Shake.jpg"]
+    "images": ["Beverages/Strawberry Shake.jpg"]
   },
   {
     "id": "BB16",
@@ -625,7 +625,7 @@
     "category": "Beverages",
     "price": "80.00",
     "description": "",
-    "images": ["Image/Beverages/Chikku Shake.jpg"]
+    "images": ["Beverages/Chikku Shake.jpg"]
   },
   {
     "id": "BB17",
@@ -633,7 +633,7 @@
     "category": "Beverages",
     "price": "90.00",
     "description": "",
-    "images": ["Image/Beverages/Oreo Shake.jpg"]
+    "images": ["Beverages/Oreo Shake.jpg"]
   },
   {
     "id": "BB18",
@@ -641,7 +641,7 @@
     "category": "Beverages",
     "price": "90.00",
     "description": "",
-    "images": ["Image/Beverages/Tender Coconut Shake.jpg"]
+    "images": ["Beverages/Tender Coconut Shake.jpg"]
   },
   {
     "id": "BB19",
@@ -649,7 +649,7 @@
     "category": "Beverages",
     "price": "90.00",
     "description": "",
-    "images": ["Image/Beverages/Avocado Shake.jpg"]
+    "images": ["Beverages/Avocado Shake.jpg"]
   },
   {
     "id": "BB20",
@@ -657,7 +657,7 @@
     "category": "Beverages",
     "price": "80.00",
     "description": "",
-    "images": ["Image/Beverages/Chocolate Shake.jpg"]
+    "images": ["Beverages/Chocolate Shake.jpg"]
   },
   {
     "id": "BB21",
@@ -665,7 +665,7 @@
     "category": "Beverages",
     "price": "85.00",
     "description": "",
-    "images": ["Image/Beverages/Mango Shake.jpg"]
+    "images": ["Beverages/Mango Shake.jpg"]
   },
   {
     "id": "BB22",
@@ -673,7 +673,7 @@
     "category": "Beverages",
     "price": "60.00",
     "description": "",
-    "images": ["Image/Beverages/Pineapple Juice.jpg"]
+    "images": ["Beverages/Pineapple Juice.jpg"]
   },
   {
     "id": "BB23",
@@ -681,7 +681,7 @@
     "category": "Beverages",
     "price": "60.00",
     "description": "",
-    "images": ["Image/Beverages/Grape Juice.jpg"]
+    "images": ["Beverages/Grape Juice.jpg"]
   },
   {
     "id": "BB24",
@@ -689,7 +689,7 @@
     "category": "Beverages",
     "price": "70.00",
     "description": "",
-    "images": ["Image/Beverages/Chikku Juice.jpg"]
+    "images": ["Beverages/Chikku Juice.jpg"]
   },
   {
     "id": "BB25",
@@ -697,7 +697,7 @@
     "category": "Beverages",
     "price": "80.00",
     "description": "",
-    "images": ["Image/Beverages/Avocado Juice.jpg"]
+    "images": ["Beverages/Avocado Juice.jpg"]
   },
   {
     "id": "BB26",
@@ -705,7 +705,7 @@
     "category": "Beverages",
     "price": "60.00",
     "description": "",
-    "images": ["Image/Beverages/Orange Juice.jpg"]
+    "images": ["Beverages/Orange Juice.jpg"]
   },
   {
     "id": "BB27",
@@ -713,7 +713,7 @@
     "category": "Beverages",
     "price": "70.00",
     "description": "",
-    "images": ["Image/Beverages/Guava Juice.jpg"]
+    "images": ["Beverages/Guava Juice.jpg"]
   },
   {
     "id": "BB28",
@@ -721,7 +721,7 @@
     "category": "Beverages",
     "price": "80.00",
     "description": "",
-    "images": ["Image/Beverages/Tender Coconut Juice.jpg"]
+    "images": ["Beverages/Tender Coconut Juice.jpg"]
   },
   {
     "id": "BB29",
@@ -729,6 +729,6 @@
     "category": "Beverages",
     "price": "70.00",
     "description": "",
-    "images": ["Image/Beverages/Mango Juice.jpg"]
+    "images": ["Beverages/Mango Juice.jpg"]
   }
 ]
