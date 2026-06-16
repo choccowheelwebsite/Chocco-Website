@@ -890,7 +890,7 @@ nav ul li a {
 /*menu*/
 .Products {
     background: linear-gradient(rgba(60, 24, 40, 0.85), rgba(60, 24, 40, 0.85)), 
-                url('/Image/Walpaper\ Products.jpg');
+                url('Walpaper\ Products.jpg');
     background-size: cover;
     background-position: center;
     position: relative;
