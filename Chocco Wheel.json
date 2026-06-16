@@ -1,0 +1,734 @@
+[
+  {
+    "id": "Cheese",
+    "name": "Extra Cheese (Burger)",
+    "category": "Cheese",
+    "price": "15.00",
+    "description": "",
+    "images": ["Image/Extra Cheese Burger.jpg"]
+  },
+  {
+    "id": "Cheese",
+    "name": "Extra Cheese (Sandwich)",
+    "category": "Cheese",
+    "price": "15.00",
+    "description": "",
+    "images": ["Image/Extra Cheese Sandwich.jpg"]
+  },
+  {
+    "id": "BC01",
+    "name": "Black Forest (1 Kg)",
+    "category": "Cakes",
+    "price": "600.00",
+    "description": "",
+    "images": ["image/Cakes/Black Forest.jpeg"]
+  },
+  {
+    "id": "BC02",
+    "name": "Black Forest (1/2 Kg)",
+    "category": "Cakes",
+    "price": "300.00",
+    "description": "",
+    "images": ["image/Cakes/Black Forest.jpeg"]
+  },
+  {
+    "id": "BC03",
+    "name": "White Forest (1 Kg)",
+    "category": "Cakes",
+    "price": "600.00",
+    "description": "",
+    "images": ["image/Cakes/White Forest.jpeg"]
+  },
+  {
+    "id": "BC04",
+    "name": "White Forest (1/2 Kg)",
+    "category": "Cakes",
+    "price": "300.00",
+    "description": "",
+    "images": ["image/Cakes/White Forest.jpeg"]
+  },
+  {
+    "id": "BC05",
+    "name": "Red Velvet (1 Kg)",
+    "category": "Cakes",
+    "price": "850.00",
+    "description": "",
+    "images": ["image/Cakes/Red Velvet.jpeg"]
+  },
+  {
+    "id": "BC06",
+    "name": "Red Velvet (1/2 Kg)",
+    "category": "Cakes",
+    "price": "450.00",
+    "description": "",
+    "images": ["image/Cakes/Red Velvet.jpeg"]
+  },
+  {
+    "id": "BC07",
+    "name": "Nutty Bubbly (1 Kg)",
+    "category": "Cakes",
+    "price": "999.00",
+    "description": "",
+    "images": ["image/Cakes/Nutty Bubbly.jpeg"]
+  },
+  {
+    "id": "BC08",
+    "name": "Nutty Bubbly (1/2 Kg)",
+    "category": "Cakes",
+    "price": "550.00",
+    "description": "",
+    "images": ["image/Cakes/Nutty Bubbly.jpeg"]
+  },
+  {
+    "id": "BC09",
+    "name": "Choco Truffle (1 Kg)",
+    "category": "Cakes",
+    "price": "900.00",
+    "description": "",
+    "images": ["image/Cakes/Choco Truffle.jpeg"]
+  },
+  {
+    "id": "BC010",
+    "name": "Choco Truffle (1/2 Kg)",
+    "category": "Cakes",
+    "price": "500.00",
+    "description": "",
+    "images": ["image/Cakes/Choco Truffle.jpeg"]
+  },
+  {
+    "id": "BC11",
+    "name": "Vancho (1 Kg)",
+    "category": "Cakes",
+    "price": "900.00",
+    "description": "",
+    "images": ["image/Cakes/Vancho.jpeg"]
+  },
+  {
+    "id": "BC12",
+    "name": "Vancho (1/2 Kg)",
+    "category": "Cakes",
+    "price": "500.00",
+    "description": "",
+    "images": ["image/Cakes/Vancho.jpeg"]
+  },
+  {
+    "id": "BC13",
+    "name": "Choco Berry (1 Kg)",
+    "category": "Cakes",
+    "price": "900.00",
+    "description": "",
+    "images": ["image/Cakes/Choco Berry.jpeg"]
+  },
+  {
+    "id": "BC14",
+    "name": "Choco Berry (1/2 Kg)",
+    "category": "Cakes",
+    "price": "500.00",
+    "description": "",
+    "images": ["image/Cakes/Choco Berry.jpeg"]
+  },
+  {
+    "id": "BC15",
+    "name": "Choco Red (1 Kg)",
+    "category": "Cakes",
+    "price": "900.00",
+    "description": "",
+    "images": ["image/Cakes/Choco Red.jpeg"]
+  },
+  {
+    "id": "BC16",
+    "name": "Choco Red (1/2 Kg)",
+    "category": "Cakes",
+    "price": "500.00",
+    "description": "",
+    "images": ["image/Cakes/Choco Red.jpeg"]
+  },
+  {
+    "id": "BC17",
+    "name": "Choco Nuts (1 Kg)",
+    "category": "Cakes",
+    "price": "1050.00",
+    "description": "",
+    "images": ["image/Cakes/Choco Nuts.jpeg"]
+  },
+  {
+    "id": "BC18",
+    "name": "Choco Nuts (1/2 Kg)",
+    "category": "Cakes",
+    "price": "550.00",
+    "description": "",
+    "images": ["image/Cakes/Choco Nuts.jpeg"]
+  },
+  {
+    "id": "BC19",
+    "name": "Caramel Fudge (1 Kg)",
+    "category": "Cakes",
+    "price": "950.00",
+    "description": "",
+    "images": ["image/Cakes/Caramel Fudge.jpeg"]
+  },
+  {
+    "id": "BC20",
+    "name": "Caramel Fudge (1/2 Kg)",
+    "category": "Cakes",
+    "price": "550.00",
+    "description": "",
+    "images": ["image/Cakes/Caramel Fudge.jpeg"]
+  },
+  {
+    "id": "BSC01",
+    "name": "Customized Cake",
+    "category": "Customized Cakes",
+    "description": "",
+    "images": ["image/Special Cakes/Special Cake_step.jpeg"]
+  },
+  {
+    "id": "BSC02",
+    "name": "Customized Cakes",
+    "category": "Customized Cakes",
+    "description": "",
+    "images": ["image/Special Cakes/Special cake_panda.jpeg"]
+  },
+  {
+    "id": "BSC03",
+    "name": "Customized Cakes",
+    "category": "Customized Cakes",
+    "description": "",
+    "images": ["image/Special Cakes/Special Cake_Car.jpeg"]
+  },
+  {
+    "id": "BSC04",
+    "name": "Customized Cakes",
+    "category": "Customized Cakes",
+    "description": "",
+    "images": ["image/Special Cakes/Special Cake_blue.jpeg"]
+  },
+  {
+    "id": "BSC05",
+    "name": "Customized Cakes",
+    "category": "Customized Cakes",
+    "description": "",
+    "images": ["image/Special Cakes/Special Cake_avengers.jpeg"]
+  },
+  {
+    "id": "BSC06",
+    "name": "Customized Cakes",
+    "category": "Customized Cakes",
+    "description": "",
+    "images": ["image/Special Cakes/Special Cake dora.jpeg"]
+  },
+  {
+    "id": "BP01",
+    "name": "Royal Falooda",
+    "category": "Pastries",
+    "price": "110.00",
+    "description": "",
+    "images": ["Image/Pastries/Royal Falooda.jpg"]
+  },
+  {
+    "id": "BP02",
+    "name": "Triple Chocco Kunafa Bowl",
+    "category": "Pastries",
+    "price": "165.00",
+    "description": "",
+    "images": ["Image/Pastries/Triple Chocco Kunafa Bowl.jpeg"]
+  },
+  {
+    "id": "BP03",
+    "name": "Pista Kunafa Lotus Bowl",
+    "category": "Pastries",
+    "price": "249.00",
+    "description": "",
+    "images": ["Image/Pastries/Pista Kunafa Lotus Bowl.jpg"]
+  },
+  {
+    "id": "BP04",
+    "name": "Fruit Salad",
+    "category": "Pastries",
+    "price": "65.00",
+    "description": "",
+    "images": ["Image/Pastries/Fruit Salad.jpg"]
+  },
+  {
+    "id": "BP05",
+    "name": "Falooda",
+    "category": "Pastries",
+    "price": "90.00",
+    "description": "",
+    "images": ["Image/Pastries/Falooda.jpg"]
+  },
+  {
+    "id": "BP06",
+    "name": "Cake Falooda",
+    "category": "Pastries",
+    "price": "110.00",
+    "description": "",
+    "images": ["Image/Pastries/Cake Falooda.jpg"]
+  },
+  {
+    "id": "BP07",
+    "name": "Pista Kunafa Bowl",
+    "category": "Pastries",
+    "price": "195.00",
+    "description": "",
+    "images": ["Image/Pastries/Pista Kunafa Bowl.jpeg"]
+  },
+  {
+    "id": "BP08",
+    "name": "Milk Cake",
+    "category": "Pastries",
+    "price": "120.00",
+    "description": "",
+    "images": ["Image/Pastries/Milk Cake.jpeg"]
+  },
+
+  {
+    "id": "BH01",
+    "name": "Shawarma Kuboos Roll",
+    "category": "Hot Foods",
+    "price": "100.00",
+    "description": "",
+    "images": ["Image/Hot Food/Shawarma Kuboos Roll.jpg"]
+  },
+  {
+    "id": "BH02",
+    "name": "Shawarma Kuboos Plate",
+    "category": "Hot Foods",
+    "price": "120.00",
+    "description": "",
+    "images": ["Image/Hot Food/Shawarma Kuboos Plate.jpg"]
+  },
+  {
+    "id": "BH03",
+    "name": "Turkish Rumali Roll",
+    "category": "Hot Foods",
+    "price": "120.00",
+    "description": "",
+    "images": ["Image/Hot Food/Shawarma Stand.jpg"]
+  },
+  {
+    "id": "BH04",
+    "name": "Turkish Rumali Plate",
+    "category": "Hot Foods",
+    "price": "140.00",
+    "description": "",
+    "images": ["Image/Hot Food/Turkish Rumali Plate.jpeg"]
+  },
+  {
+    "id": "BH05",
+    "name": "Turkish Full Meat Roll",
+    "category": "Hot Foods",
+    "price": "140.00",
+    "description": "",
+    "images": ["Image/Hot Food/Shawarma Stand.jpg"]
+  },
+  {
+    "id": "BH06",
+    "name": "Turkish Full Meat Plate",
+    "category": "Hot Foods",
+    "price": "160.00",
+    "description": "",
+    "images": ["Image/Hot Food/Shawarma Stand.jpg"]
+  },
+  {
+    "id": "BH7",
+    "name": "Peri Peri Rumali Roll",
+    "category": "Hot Foods",
+    "price": "130.00",
+    "description": "",
+    "images": ["Image/Hot Food/Peri Peri Rumali Roll.jpg"]
+  },
+  {
+    "id": "BH8",
+    "name": "Peri Peri Rumali Plate",
+    "category": "Hot Foods",
+    "price": "150.00",
+    "description": "",
+    "images": ["Image/Hot Food/Shawarma Stand.jpg"]
+  },
+  {
+    "id": "BH9",
+    "name": "Cheesy Rumali Roll",
+    "category": "Hot Foods",
+    "price": "145.00",
+    "description": "",
+    "images": ["Image/Hot Food/Shawarma Stand.jpg"]
+  },
+  {
+    "id": "BH10",
+    "name": "Cheesy Rumali Plate",
+    "category": "Hot Foods",
+    "price": "165.00",
+    "description": "",
+    "images": ["Image/Hot Food/Shawarma Stand.jpg"]
+  },
+  {
+    "id": "BH11",
+    "name": "Shawarma Loaded Fries",
+    "category": "Hot Foods",
+    "price": "159.00",
+    "description": "",
+    "images": ["Image/Hot Food/Shawarma Loaded Fries.jpg"]
+  },
+  {
+    "id": "BH12",
+    "name": "Vegetable Sandwich",
+    "category": "Hot Foods",
+    "price": "85.00",
+    "description": "",
+    "images": ["Image/Hot Food/Vegetable Sandwich.jpg"]
+  },
+  {
+    "id": "BH13",
+    "name": "Chicken Sandwich",
+    "category": "Hot Foods",
+    "price": "105.00",
+    "description": "",
+    "images": ["Image/Hot Food/Chicken Sandwich.jpg"]
+  },
+  {
+    "id": "BH14",
+    "name": "Chicken Club Sandwich",
+    "category": "Hot Foods",
+    "price": "165.00",
+    "description": "",
+    "images": ["Image/Hot Food/Chicken Club Sandwich.jpg"]
+  },
+  {
+    "id": "BH15",
+    "name": "Mexican Chicken Wrap",
+    "category": "Hot Foods",
+    "price": "119.00",
+    "description": "",
+    "images": ["Image/Hot Food/Mexican Chicken Wrap.jpg"]
+  },
+  {
+    "id": "BH16",
+    "name": "Classic Vegetable Burger",
+    "category": "Hot Foods",
+    "price": "85.00",
+    "description": "",
+    "images": ["Image/Hot Food/Classic Vegetable Burger.jpg"]
+  },
+  {
+    "id": "BH17",
+    "name": "Mini Chicken Burger",
+    "category": "Hot Foods",
+    "price": "45.00",
+    "description": "",
+    "images": ["Image/Hot Food/Mini Chicken Burger.jpg"]
+  },
+  {
+    "id": "BH18",
+    "name": "Classic Chicken Burger",
+    "category": "Hot Foods",
+    "price": "95.00",
+    "description": "",
+    "images": ["Image/Hot Food/Classic Chicken Burger.jpg"]
+  },
+  {
+    "id": "BH19",
+    "name": "Zinger Chicken Burger",
+    "category": "Hot Foods",
+    "price": "105.00",
+    "description": "",
+    "images": ["Image/Hot Food/Zinger Chicken Burger.jpg"]
+  },
+  {
+    "id": "BH20",
+    "name": "Cheesy Burger Platter",
+    "category": "Hot Foods",
+    "price": "105.00",
+    "description": "",
+    "images": ["Image/Hot Food/Cheesy Burger Platter.jpg"]
+  },
+  {
+    "id": "BH21",
+    "name": "French Fries Medium",
+    "category": "Hot Foods",
+    "price": "75.00",
+    "description": "",
+    "images": ["Image/Hot Food/French Fries Medium.jpg"]
+  },
+  {
+    "id": "BH22",
+    "name": "Dynamic Chicken Pops(10)",
+    "category": "Hot Foods",
+    "price": "99.00",
+    "description": "",
+    "images": ["Image/Hot Food/Dynamic Chicken Pops.jpg"]
+  },
+  {
+    "id": "BH23",
+    "name": "Zinger Chicken Cheese Loaded",
+    "category": "Hot Foods",
+    "price": "159.00",
+    "description": "",
+    "images": ["Image/Hot Food/Zinger Chicken Cheese Loaded.jpg"]
+  },
+  {
+    "id": "BH24",
+    "name": "Chicken Cheese Loaded Fries",
+    "category": "Hot Foods",
+    "price": "139.00",
+    "description": "",
+    "images": ["Image/Hot Food/Chicken Cheese Loaded Fries.jpg"]
+  },
+  {
+    "id": "BH25",
+    "name": "Fried Cheesy Chicken Momos",
+    "category": "Hot Foods",
+    "price": "139.00",
+    "description": "",
+    "images": ["Image/Hot Food/Fried Cheesy Chicken Momos.jpg"]
+  },
+  {
+    "id": "BH26",
+    "name": "Fried Wings (4)",
+    "category": "Hot Foods",
+    "price": "99.00",
+    "description": "",
+    "images": ["Image/Hot Food/Fried Wings.jpg"]
+  },
+  {
+    "id": "BH27",
+    "name": "Dynamic Chicken Salad",
+    "category": "Hot Foods",
+    "price": "159.00",
+    "description": "",
+    "images": ["Image/Hot Food/Dynamic Chicken Salad.jpeg"]
+  },
+
+  {
+    "id": "BB1",
+    "name": "Frappuccino",
+    "category": "Beverages",
+    "price": "80",
+    "description": "",
+    "images": ["Image/Beverages/Frappuccino.jpg"]
+  },
+  {
+    "id": "BB2",
+    "name": "Coffe Caramel Frappe",
+    "category": "Beverages",
+    "price": "90.00",
+    "description": "",
+    "images": ["Image/Beverages/Coffe Caramel Frappe.jpg"]
+  },
+  {
+    "id": "BB3",
+    "name": "Chocolate Frappe",
+    "category": "Beverages",
+    "price": "90.00",
+    "description": "",
+    "images": ["Image/Beverages/Chocolate Frappe.jpg"]
+  },
+  {
+    "id": "BB4",
+    "name": "Chilli Guava Soda",
+    "category": "Beverages",
+    "price": "40.00",
+    "description": "",
+    "images": ["Image/Beverages/Chilli Guava Soda.jpg"]
+  },
+  {
+    "id": "BB5",
+    "name": "Green Mango Soda",
+    "category": "Beverages",
+    "price": "40",
+    "description": "",
+    "images": ["Image/Beverages/Green Mango Soda.jpg"]
+  },
+  {
+    "id": "BB6",
+    "name": "Grape Soda",
+    "category": "Beverages",
+    "price": "40.00",
+    "description": "",
+    "images": ["Image/Beverages/Grape Soda.jpg"]
+  },
+  {
+    "id": "BB7",
+    "name": "Avil Milk",
+    "category": "Beverages",
+    "price": "49.00",
+    "description": "",
+    "images": ["Image/Beverages/Avil Milk.jpg"]
+  },
+  {
+    "id": "BB8",
+    "name": "Royal Avil Milk",
+    "category": "Beverages",
+    "price": "80.00",
+    "description": "",
+    "images": ["Image/Beverages/Royal Avil Milk.jpg"]
+  },
+  {
+    "id": "BB9",
+    "name": "Blue Sea Mojito",
+    "category": "Beverages",
+    "price": "85",
+    "description": "",
+    "images": ["Image/Beverages/Blue Sea Mojito.jpg"]
+  },
+  {
+    "id": "BB10",
+    "name": "Lemon Iced Tea",
+    "category": "Beverages",
+    "price": "85.00",
+    "description": "",
+    "images": ["Image/Beverages/Lemon Iced Tea.jpg"]
+  },
+  {
+    "id": "BB11",
+    "name": "Passion Fruit Mojito",
+    "category": "Beverages",
+    "price": "85.00",
+    "description": "",
+    "images": ["Image/Beverages/Passion Fruit Mojito.jpg"]
+  },
+  {
+    "id": "BB12",
+    "name": "Honey Mojito",
+    "category": "Beverages",
+    "price": "110.00",
+    "description": "",
+    "images": ["Image/Beverages/Honey Mojito.jpg"]
+  },
+  {
+    "id": "BB13",
+    "name": "Vanilla Shake",
+    "category": "Beverages",
+    "price": "70.00",
+    "description": "",
+    "images": ["Image/Beverages/Vanilla Shake.jpg"]
+  },
+  {
+    "id": "BB14",
+    "name": "Sharjah Shake",
+    "category": "Beverages",
+    "price": "70.00",
+    "description": "",
+    "images": ["Image/Beverages/Sharjah Shake.jpg"]
+  },
+  {
+    "id": "BB15",
+    "name": "Strawberry Shake",
+    "category": "Beverages",
+    "price": "80.00",
+    "description": "",
+    "images": ["Image/Beverages/Strawberry Shake.jpg"]
+  },
+  {
+    "id": "BB16",
+    "name": "Chikku Shake",
+    "category": "Beverages",
+    "price": "80.00",
+    "description": "",
+    "images": ["Image/Beverages/Chikku Shake.jpg"]
+  },
+  {
+    "id": "BB17",
+    "name": "Oreo Shake",
+    "category": "Beverages",
+    "price": "90.00",
+    "description": "",
+    "images": ["Image/Beverages/Oreo Shake.jpg"]
+  },
+  {
+    "id": "BB18",
+    "name": "Tender Coconut Shake",
+    "category": "Beverages",
+    "price": "90.00",
+    "description": "",
+    "images": ["Image/Beverages/Tender Coconut Shake.jpg"]
+  },
+  {
+    "id": "BB19",
+    "name": "Avocado Shake",
+    "category": "Beverages",
+    "price": "90.00",
+    "description": "",
+    "images": ["Image/Beverages/Avocado Shake.jpg"]
+  },
+  {
+    "id": "BB20",
+    "name": "Chocolate Shake",
+    "category": "Beverages",
+    "price": "80.00",
+    "description": "",
+    "images": ["Image/Beverages/Chocolate Shake.jpg"]
+  },
+  {
+    "id": "BB21",
+    "name": "Mango Shake",
+    "category": "Beverages",
+    "price": "85.00",
+    "description": "",
+    "images": ["Image/Beverages/Mango Shake.jpg"]
+  },
+  {
+    "id": "BB22",
+    "name": "Pineapple Juice",
+    "category": "Beverages",
+    "price": "60.00",
+    "description": "",
+    "images": ["Image/Beverages/Pineapple Juice.jpg"]
+  },
+  {
+    "id": "BB23",
+    "name": "Grape Juice",
+    "category": "Beverages",
+    "price": "60.00",
+    "description": "",
+    "images": ["Image/Beverages/Grape Juice.jpg"]
+  },
+  {
+    "id": "BB24",
+    "name": "Chikku Juice",
+    "category": "Beverages",
+    "price": "70.00",
+    "description": "",
+    "images": ["Image/Beverages/Chikku Juice.jpg"]
+  },
+  {
+    "id": "BB25",
+    "name": "Avocado Juice",
+    "category": "Beverages",
+    "price": "80.00",
+    "description": "",
+    "images": ["Image/Beverages/Avocado Juice.jpg"]
+  },
+  {
+    "id": "BB26",
+    "name": "Orange Juice",
+    "category": "Beverages",
+    "price": "60.00",
+    "description": "",
+    "images": ["Image/Beverages/Orange Juice.jpg"]
+  },
+  {
+    "id": "BB27",
+    "name": "Guava Juice",
+    "category": "Beverages",
+    "price": "70.00",
+    "description": "",
+    "images": ["Image/Beverages/Guava Juice.jpg"]
+  },
+  {
+    "id": "BB28",
+    "name": "Tender Coconut Juice",
+    "category": "Beverages",
+    "price": "80.00",
+    "description": "",
+    "images": ["Image/Beverages/Tender Coconut Juice.jpg"]
+  },
+  {
+    "id": "BB29",
+    "name": "Mango Juice",
+    "category": "Beverages",
+    "price": "70.00",
+    "description": "",
+    "images": ["Image/Beverages/Mango Juice.jpg"]
+  }
+]
