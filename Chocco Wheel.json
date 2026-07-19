@@ -786,13 +786,53 @@
     "price": "70.00",
     "description": "",
     "images": ["Image/Beverages/Mango Juice.jpg"]
-  }
+  },
   {
     "id": "MCC1",
-    "name": "Tender Coconut Juice",
+    "name": "പാൽ പത്തരിയും ബീഫും",
     "category": "Meet-CCO",
     "price": "80.00",
     "description": "",
-    "images": ["Image/Meet-CCO/"]
+    "images": ["Image/Meet-CCO/പാൽ പത്തരിയും ബീഫും.jpg"]
+  },
+  {
+    "id": "MCC2",
+    "name": "കപ്പയും മീൻ കറിയും",
+    "category": "Meet-CCO",
+    "price": "80.00",
+    "description": "",
+    "images": ["Image/Meet-CCO/കപ്പയും മീൻ കറിയും.jpg"]
+  },
+  {
+    "id": "MCC2",
+    "name": "Kappa beef mix",
+    "category": "Meet-CCO",
+    "price": "80.00",
+    "description": "",
+    "images": ["Image/Meet-CCO/Kappa beef mix.jpg"]
+  },
+  {
+    "id": "MCC3",
+    "name": "Bread stew",
+    "category": "Meet-CCO",
+    "price": "80.00",
+    "description": "",
+    "images": ["Image/Meet-CCO/Bread stew.jpeg"]
+  },
+  {
+    "id": "MCC4",
+    "name": "Mutton soup",
+    "category": "Meet-CCO",
+    "price": "80.00",
+    "description": "",
+    "images": ["Image/Meet-CCO/Mutton soup.jpg"]
+  },
+  {
+    "id": "MCC5",
+    "name": "Ellum Kappayum",
+    "category": "Meet-CCO",
+    "price": "80.00",
+    "description": "",
+    "images": ["Image/Meet-CCO/Kappa beef mix.jpg"]
   },
 ]
