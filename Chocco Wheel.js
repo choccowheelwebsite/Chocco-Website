@@ -172,7 +172,7 @@ const initMenuApp = (jsonFileName = 'Chocco Wheel.json') => {
             const filterBtns = document.querySelectorAll('.filter-btn');
             const allItems = document.querySelectorAll('.gallery-item');
 
-            const ITEMS_PER_LOAD = 8;
+            const ITEMS_PER_LOAD = 10;
 
             let currentCategory = 'all';
             let currentVisible = 0;
@@ -301,7 +301,7 @@ const initMenuApp = (jsonFileName = 'Chocco Wheel.json') => {
             const matchesSearch = productName.includes(searchTerm);
 
             if (matchesCategory && matchesSearch) {
-                if (shownCount < 8) {
+                if (shownCount < 10) {
                     item.style.display = 'block';
                     item.classList.remove('hidden-item');
                     shownCount++;
