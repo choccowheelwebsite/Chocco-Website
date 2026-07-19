@@ -930,7 +930,7 @@ nav ul li a {
     padding-bottom: 6px;
 }
 .container {
-    max-width: 1500px;
+    max-width: 1800px;
     width: 90%;
     margin: 0 auto;
     padding: var(--spacing-lg);
