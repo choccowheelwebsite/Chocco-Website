@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const prevBtn = document.getElementById('prevBtn');
     
     const images = [
-        'Home Background (1).jpg',
+        'Home Background(1).jpg',
         'Home Background (2).jpg',
         'Home Background (3).jpg',
         'Home Background (4).jpg'
