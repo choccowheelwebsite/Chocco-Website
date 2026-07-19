@@ -21,7 +21,7 @@
     "category": "Cakes",
     "price": "600.00",
     "description": "",
-    "images": ["Cakes/Black Forest.jpeg"]
+    "images": ["Image/Cakes/Black Forest.jpeg"]
   },
   {
     "id": "BC02",
