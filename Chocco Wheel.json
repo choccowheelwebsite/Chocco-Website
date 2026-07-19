@@ -498,6 +498,62 @@
     "description": "",
     "images": ["Hot Food/Dynamic Chicken Salad.jpeg"]
   },
+  {
+    "id": "BH28",
+    "name": "Italian Vegetable Pizza",
+    "category": "Hot Foods",
+    "price": "159.00",
+    "description": "",
+    "images": ["Hot Food/Italian Vegetable Pizza.jpg"]
+  },
+  {
+    "id": "BH27",
+    "name": "Italian Vegetable Pizza",
+    "category": "Hot Foods",
+    "price": "159.00",
+    "description": "",
+    "images": ["Hot Food/Italian Vegetable Pizza.jpg"]
+  },
+  {
+    "id": "BH29",
+    "name": "Classic Chicken Pizza",
+    "category": "Hot Foods",
+    "price": "159.00",
+    "description": "",
+    "images": ["Hot Food/Classic Chicken Pizza.jpg"]
+  },
+  {
+    "id": "BH30",
+    "name": "Classic Chicken Pizza",
+    "category": "Hot Foods",
+    "price": "159.00",
+    "description": "",
+    "images": ["Hot Food/Classic Chicken Pizza.jpg"]
+  },
+  {
+    "id": "BH31",
+    "name": "Mexican Chicken Pizza",
+    "category": "Hot Foods",
+    "price": "159.00",
+    "description": "",
+    "images": ["Hot Food/Mexican Chicken Pizza.jpg"]
+  },
+  {
+    "id": "BH32",
+    "name": "Mexican Chicken Pizza",
+    "category": "Hot Foods",
+    "price": "159.00",
+    "description": "",
+    "images": ["Hot Food/Mexican Chicken Pizza.jpg"]
+  },
+  {
+    "id": "BH33",
+    "name": "High Protien",
+    "category": "Hot Foods",
+    "price": "159.00",
+    "description": "",
+    "images": ["Hot Food/HIgh Protien.jpg"]
+  },
 
   {
     "id": "BB1",
@@ -731,4 +787,12 @@
     "description": "",
     "images": ["Image/Beverages/Mango Juice.jpg"]
   }
+  {
+    "id": "MCC1",
+    "name": "Tender Coconut Juice",
+    "category": "Meet-CCO",
+    "price": "80.00",
+    "description": "",
+    "images": ["Image/Meet-CCO/"]
+  },
 ]
