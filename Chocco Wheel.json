@@ -507,7 +507,7 @@
     "id": "BH28",
     "name": "Italian Vegetable Pizza Small",
     "category": "Hot Foods",
-    "price": "159.00",
+    "price": "189.00",
     "description": "",
     "images": ["Hot Food/Italian Vegetable Pizza.jpg"]
   },
@@ -515,7 +515,7 @@
     "id": "BH29",
     "name": "Italian Vegetable Pizza Medium",
     "category": "Hot Foods",
-    "price": "159.00",
+    "price": "229.00",
     "description": "",
     "images": ["Hot Food/Italian Vegetable Pizza.jpg"]
   },
@@ -523,7 +523,7 @@
     "id": "BH30",
     "name": "Classic Chicken Pizza Small",
     "category": "Hot Foods",
-    "price": "159.00",
+    "price": "199.00",
     "description": "",
     "images": ["Hot Food/Classic Chicken Pizza.jpg"]
   },
@@ -531,7 +531,7 @@
     "id": "BH31",
     "name": "Classic Chicken Pizza Medium ",
     "category": "Hot Foods",
-    "price": "159.00",
+    "price": "239.00",
     "description": "",
     "images": ["Hot Food/Classic Chicken Pizza.jpg"]
   },
@@ -539,7 +539,7 @@
     "id": "BH32",
     "name": "Mexican Chicken Pizza Small",
     "category": "Hot Foods",
-    "price": "159.00",
+    "price": "229.00",
     "description": "",
     "images": ["Hot Food/Mexican Chicken Pizza.jpg"]
   },
@@ -547,7 +547,7 @@
     "id": "BH33",
     "name": "Mexican Chicken Pizza Medium",
     "category": "Hot Foods",
-    "price": "159.00",
+    "price": "269.00",
     "description": "",
     "images": ["Hot Food/Mexican Chicken Pizza.jpg"]
   },
@@ -555,7 +555,7 @@
     "id": "BH33",
     "name": "High Protien",
     "category": "Hot Foods",
-    "price": "159.00",
+    "price": "175.00",
     "description": "",
     "images": ["Hot Food/HIgh Protien.jpg"]
   },
@@ -795,7 +795,7 @@
     "id": "MCC1",
     "name": "പാൽ പത്തരിയും ബീഫും",
     "category": "Meet-CCO",
-    "price": "80.00",
+    "price": "155.00",
     "description": "",
     "images": ["Meet-CCO/പാൽ പത്തരിയും ബീഫും.jpg"]
   },
@@ -803,7 +803,7 @@
     "id": "MCC2",
     "name": "കപ്പയും മീൻ കറിയും",
     "category": "Meet-CCO",
-    "price": "80.00",
+    "price": "149.00",
     "description": "",
     "images": ["Meet-CCO/കപ്പയും മീൻ കറിയും.jpg"]
   },
@@ -811,7 +811,7 @@
     "id": "MCC2_2",
     "name": "Kappa beef mix",
     "category": "Meet-CCO",
-    "price": "80.00",
+    "price": "159.00",
     "description": "",
     "images": ["Meet-CCO/Kappa beef mix.jpg"]
   },
@@ -819,7 +819,7 @@
     "id": "MCC3",
     "name": "Bread stew",
     "category": "Meet-CCO",
-    "price": "80.00",
+    "price": "99.00",
     "description": "",
     "images": ["Meet-CCO/Bread stew.jpeg"]
   },
@@ -827,7 +827,7 @@
     "id": "MCC4",
     "name": "Mutton soup",
     "category": "Meet-CCO",
-    "price": "80.00",
+    "price": "45.00",
     "description": "",
     "images": ["Meet-CCO/Mutton soup.jpg"]
   },
@@ -835,7 +835,7 @@
     "id": "MCC5",
     "name": "Ellum Kappayum",
     "category": "Meet-CCO",
-    "price": "80.00",
+    "price": "149.00",
     "description": "",
     "images": ["Meet-CCO/Kappa beef mix.jpg"]
   }
