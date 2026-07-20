@@ -505,7 +505,7 @@
   },
   {
     "id": "BH28",
-    "name": "Italian Vegetable Pizza",
+    "name": "Italian Vegetable Pizza Small",
     "category": "Hot Foods",
     "price": "159.00",
     "description": "",
@@ -513,7 +513,15 @@
   },
   {
     "id": "BH29",
-    "name": "Classic Chicken Pizza",
+    "name": "Italian Vegetable Pizza Medium",
+    "category": "Hot Foods",
+    "price": "159.00",
+    "description": "",
+    "images": ["Hot Food/Italian Vegetable Pizza.jpg"]
+  },
+  {
+    "id": "BH30",
+    "name": "Classic Chicken Pizza Small",
     "category": "Hot Foods",
     "price": "159.00",
     "description": "",
@@ -521,7 +529,23 @@
   },
   {
     "id": "BH31",
-    "name": "Mexican Chicken Pizza",
+    "name": "Classic Chicken Pizza Medium ",
+    "category": "Hot Foods",
+    "price": "159.00",
+    "description": "",
+    "images": ["Hot Food/Classic Chicken Pizza.jpg"]
+  },
+  {
+    "id": "BH32",
+    "name": "Mexican Chicken Pizza Small",
+    "category": "Hot Foods",
+    "price": "159.00",
+    "description": "",
+    "images": ["Hot Food/Mexican Chicken Pizza.jpg"]
+  },
+  {
+    "id": "BH33",
+    "name": "Mexican Chicken Pizza Medium",
     "category": "Hot Foods",
     "price": "159.00",
     "description": "",
