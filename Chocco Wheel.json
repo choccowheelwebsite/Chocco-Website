@@ -291,7 +291,7 @@
     "id": "BH01",
     "name": "Shawarma Kuboos Roll",
     "category": "Hot Foods",
-    "price": "100.00",
+    "price": "90.00",
     "description": "",
     "images": ["Hot Food/Shawarma Kuboos Roll.jpg"]
   },
@@ -299,7 +299,7 @@
     "id": "BH02",
     "name": "Shawarma Kuboos Plate",
     "category": "Hot Foods",
-    "price": "120.00",
+    "price": "110.00",
     "description": "",
     "images": ["Hot Food/Shawarma Kuboos Plate.jpg"]
   },
