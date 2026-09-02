@@ -476,6 +476,7 @@ document.querySelectorAll('input[name="order-type"]').forEach(radio => {
 function openCheckoutModal(singleProductArray = null) {
     const modal = document.getElementById('checkout-modal');
     const summaryBox = document.getElementById('modal-cart-summary');
+    const cartTotalEl = document.getElementById('cart-total-price');
     
     const cart = singleProductArray || JSON.parse(localStorage.getItem('chocco_cart')) || [];
 
@@ -483,19 +484,23 @@ function openCheckoutModal(singleProductArray = null) {
         alert("Your selection is empty!");
         return;
     }
-    summaryBox.innerHTML = cart.map(item => `
-        <p>${item.name} (x${item.qty}) - ₹${(Number(item.price) * Number(item.qty)).toFixed(2)}</p>
-    `).join('');
 
-    summaryBox.style.display = 'none';
+    summaryBox.innerHTML = cart.map(item => {
+        const itemTotal = Number(item.price) * Number(item.qty);
+        return `<p>${item.name} (x${item.qty}) - ₹${itemTotal.toFixed(2)}</p>`;
+    }).join('');
+
+    summaryBox.style.display = 'block';
     modal.style.display = 'block';
-    if (singleProductArray) {
-        const total = singleProductArray.reduce((sum, item) => sum + (item.price * item.qty), 0);
-        const cartTotalEl = document.getElementById('cart-total-price');
-        if (cartTotalEl) cartTotalEl.innerText = `$${total.toFixed(2)}`;
-    }
 
-    setTimeout(refreshCheckoutTotal, 100);
+    const grandTotal = cart.reduce((sum, item) => sum + (Number(item.price) * Number(item.qty)), 0);
+    
+    if (cartTotalEl) {
+        cartTotalEl.innerText = `₹${grandTotal.toFixed(2)}`;
+    }
+    if (typeof refreshCheckoutTotal === 'function') {
+        setTimeout(refreshCheckoutTotal, 100);
+    }
 }
 
 document.querySelector('.close-modal').addEventListener('click', () => {
@@ -508,9 +513,9 @@ document.getElementById('final-send-btn').addEventListener('click', () => {
     const address = document.getElementById('user-address').value.trim();
     const branch = document.getElementById('add-select').value;
     
-    const orderType = document.querySelector('input[name="order-type"]:checked').value;
+    const orderTypeElement = document.querySelector('input[name="order-type"]:checked');
+    const orderType = orderTypeElement ? orderTypeElement.value : 'delivery';
 
-    const cart = JSON.parse(localStorage.getItem('chocco_cart')) || [];
     const summaryEl = document.getElementById('modal-cart-summary');
 
     if (!name || !phone || !address || !branch) {
@@ -531,16 +536,17 @@ document.getElementById('final-send-btn').addEventListener('click', () => {
     
     message += `Order Items:\n`;
     const summaryText = summaryEl ? summaryEl.innerText.trim() : '';
-    if (summaryText) message += `${summaryText}`;
+    if (summaryText) message += `${summaryText}\n`;
     
-    const finalTotal = document.getElementById('total-display').innerText;
-    message += `\n\n${finalTotal}`;
+    const finalTotal = document.getElementById('cart-total-price') ? document.getElementById('cart-total-price').innerText : '';
+    message += `\nGrand Total: ${finalTotal}`;
 
     const whatsappUrl = `https://wa.me/${whatsappNumber}?text=${encodeURIComponent(message)}`;
     window.open(whatsappUrl, '_blank');
 
     localStorage.removeItem('chocco_cart');
-    shoppingCart = [];
-    renderCart();
+    if (typeof shoppingCart !== 'undefined') shoppingCart = [];
+    if (typeof renderCart === 'function') renderCart();
+    
     document.getElementById('checkout-modal').style.display = 'none';
 });
