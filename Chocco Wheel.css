@@ -1468,6 +1468,7 @@ nav ul li a {
     font-weight: 500;
     margin-bottom: 15px;
     color: #1f3a4d;
+    gap: 20px;
 }
 .footer-logo img{
     width: 100px;
@@ -1541,7 +1542,7 @@ nav ul li a {
     }
     .footer-logo {
         font-size: 30px;
-        gap: 15px;
+        gap: 20px;
     }
 
     .footer-socials {
